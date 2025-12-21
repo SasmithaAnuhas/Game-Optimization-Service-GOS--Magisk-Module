@@ -1,7 +1,8 @@
 id=Samsung_GameOptimizationService
 name=SM GameOptimizationService Installer
-version=1.0
+version=2.0
         3.4.05.2-340500002_minAPI28(arm64-v8a,armeabi-v7a)(nodpi)
-versionCode=1
+versionCode=2
 author=SSAFernando
 description=SM GameOptimizationService install for use all samsung gaming  services. 
+
