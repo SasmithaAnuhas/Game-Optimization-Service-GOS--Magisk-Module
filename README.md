@@ -8,6 +8,9 @@ The **Samsung GOS Magisk Module** allows users to enable the **Game Optimization
 
 ## **How to Use**  
 
+Game-Optimization-Service-GOS--Magisk-Module-main.v.1.0.0 FOR **ONEUI 6**
+Game-Optimization-Service-GOS--Magisk-Module-main.v.2.0.0 FOR **ONEUI 7**
+
 ### **Installation Steps**  
 
 1. **Download the (GOS) Module Template**  
@@ -61,6 +64,9 @@ This project is licensed under the MIT License. See the LICENSE file for details
  Samsung GOS Magisk මොඩියුලය පරිශීලකයින්ට Game Optimization Service (GOS) සහ එයට අදාළ විශේෂාංග සහය නොදක්වන Samsung උපාංග මත සබල කිරීමට ඉඩ සලසයි.  එය ප්‍රමුඛ මට්ටමේ ක්‍රීඩා අත්දැකීමක් ලබා දෙමින් උසස් ක්‍රීඩා වෙනස් කිරීම් සහ කාර්ය සාධන වැඩිදියුණු කිරීම් අගුළු හරියි.
 
  භාවිතා කරන ආකාරය
+
+Game-Optimization-Service-GOS--Magisk-Module-main.v.1.0.0 සඳහා **ONEUI 6**
+Game-Optimization-Service-GOS--Magisk-Module-main.v.2.0.0 සඳහා **ONEUI 7**
 
  ස්ථාපන පියවර
 
