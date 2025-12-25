@@ -6,11 +6,6 @@ The **Samsung GOS Magisk Module** allows users to enable the **Game Optimization
 
 ---
 
-## **How to Use**  
-
-Game-Optimization-Service-GOS--Magisk-Module-main.v.1.0.0 FOR **ONEUI 6**
-Game-Optimization-Service-GOS--Magisk-Module-main.v.2.0.0 FOR **ONEUI 7**
-
 ### **Installation Steps**  
 
 1. **Download the (GOS) Module Template**  
@@ -26,7 +21,9 @@ Game-Optimization-Service-GOS--Magisk-Module-main.v.2.0.0 FOR **ONEUI 7**
    - Download the following apps from the **Galaxy Store** (or use the alternative ADB method if unavailable):  
      - Samsung Gaming Hub  
      - Samsung Game Plugins  
-     - Game Booster Plus  
+     - Game Booster Plus
+    
+(above V2.1, all apps are included in the module.)
 
 4. **Optional: Spoof Your Device Model**  
    - If required, spoof your device as a flagship model (e.g., Galaxy S24 or A35) using Magisk Props or another preferred method to enable Galaxy Store visibility for these apps.  
@@ -45,7 +42,7 @@ Game-Optimization-Service-GOS--Magisk-Module-main.v.2.0.0 FOR **ONEUI 7**
 
 If you found this project useful, please consider supporting its development.  
 
-- **Bynance:** `https://app.binance.com/qr/dplke4574e02184048948eaadf9d67940d3a`  
+- **Bynance:** https://app.binance.com/qr/dplke4574e02184048948eaadf9d67940d3a  
 ---
 
 ## **Credits and References**  
